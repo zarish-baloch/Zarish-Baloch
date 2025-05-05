@@ -1,23 +1,45 @@
 # 👋 Hi, I'm Zarish Baloch
 
-I'm an Electrical Engineer who moved into IT and now works as a **Junior DevOps Engineer**.
-I gained most of my current experience during my role at PTCL, where I worked with systems, data, and automation tools.
+I'm an **Electrical Engineer** who transitioned into IT and now works as a **Junior DevOps Engineer**.  
+I gained most of my professional experience at **PTCL**, where I worked on systems, data handling, and automation.
 
 ---
 
-### 🛠️ Skills & Tools I’ve Used
-- **Linux** – basic commands and scripting
-- **MySQL** – basic queries and data handling
-- **Grafana** – dashboards for monitoring
-- **SAP** – user-level work in enterprise systems
-- **MATLAB**, **ArcGIS**, **Telecom Systems** – from engineering and project experience
+### 🛠️ Skills & Tools
+- **Linux** – Shell scripting, CLI basics  
+- **MySQL** – Basic queries and data operations  
+- **Grafana** – Dashboard creation and monitoring  
+- **SAP** – User-level enterprise system tasks  
+- **MATLAB**, **ArcGIS**, **Telecom Systems** – From engineering and academic projects  
 
 ---
 
-### 🎯 Current Focus
-I’m continuing to apply what I’ve learned on the job and slowly building my foundation in DevOps through hands-on experience.
+### 📈 What I'm Working On
+- Learning **Docker** and containerization  
+- Practicing **CI/CD** with GitHub Actions  
+- Exploring monitoring with **Prometheus & Grafana**  
+- Strengthening my scripting skills with **Bash & Python**
 
 ---
 
-📫 [LinkedIn](https://www.linkedin.com/in/zarish-baloch-8bb74030a) 
-[GitHub](https://github.com/zarish-baloch)
+### 🌱 Goals for 2025
+- Build a full CI/CD pipeline using GitHub Actions  
+- Deploy a sample app using **Docker**  
+- Set up a basic monitoring system  
+- Contribute to an open-source DevOps repo
+
+---
+
+### 💻 Featured Repositories
+- [**Linux-command-and-scripts**](https://github.com/zarish-baloch/Linux-command-and-scripts): Bash commands and scripts for everyday DevOps tasks  
+- [**mysql-queries-practice**](https://github.com/zarish-baloch/mysql-queries-practice): Practice MySQL queries for data manipulation
+
+---
+
+### 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/zarish-baloch-8bb74030a)  
+- [GitHub](https://github.com/zarish-baloch)
+
+---
+
+> “I’m learning DevOps one commit at a time.” 
